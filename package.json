@@ -1,7 +1,8 @@
 {
   "name": "prac",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "http://Saransh019.github.io/Quicksell-Assessment-Frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -18,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -41,6 +42,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0"
-  },
-  "homepage": "http://Saransh019.github.io/Quicksell-Assessment-Frontend"
+  }
 }

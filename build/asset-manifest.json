@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Quicksell-Assessment-Frontend/static/css/main.46098a9f.chunk.css",
+    "main.js": "/Quicksell-Assessment-Frontend/static/js/main.21ecff74.chunk.js",
+    "main.js.map": "/Quicksell-Assessment-Frontend/static/js/main.21ecff74.chunk.js.map",
+    "runtime-main.js": "/Quicksell-Assessment-Frontend/static/js/runtime-main.666927d9.js",
+    "runtime-main.js.map": "/Quicksell-Assessment-Frontend/static/js/runtime-main.666927d9.js.map",
+    "static/js/2.55cd6e57.chunk.js": "/Quicksell-Assessment-Frontend/static/js/2.55cd6e57.chunk.js",
+    "static/js/2.55cd6e57.chunk.js.map": "/Quicksell-Assessment-Frontend/static/js/2.55cd6e57.chunk.js.map",
+    "index.html": "/Quicksell-Assessment-Frontend/index.html",
+    "static/css/main.46098a9f.chunk.css.map": "/Quicksell-Assessment-Frontend/static/css/main.46098a9f.chunk.css.map",
+    "static/js/2.55cd6e57.chunk.js.LICENSE.txt": "/Quicksell-Assessment-Frontend/static/js/2.55cd6e57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.666927d9.js",
+    "static/js/2.55cd6e57.chunk.js",
+    "static/css/main.46098a9f.chunk.css",
+    "static/js/main.21ecff74.chunk.js"
+  ]
+}
